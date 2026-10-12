@@ -50,7 +50,7 @@ Aplikasi telah dilengkapi seeder data awal dengan akun pengujian sebagai berikut
 
 ---
 
-## 🚀 Panduan Instalasi & Menjalankan Proyek
+## Panduan Instalasi & Menjalankan Proyek
 
 ### 1. Kebutuhan Sistem
 Pastikan perangkat Anda telah terpasang:
