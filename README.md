@@ -1,4 +1,4 @@
-# OptiStock — Sistem Informasi Manajemen Inventaris (Laravel Framework)
+# OptiStock - Sistem Informasi Manajemen Inventaris (Laravel Framework)
 
 OptiStock adalah sistem inventaris toko dan pergudangan berbasis web yang dikembangkan menggunakan **Laravel Framework** dan database **MySQL**. Sistem ini dirancang untuk memberikan transparansi pergerakan stok secara *real-time*, mengotomatisasi perhitungan mutasi barang masuk/keluar, mendeteksi peringatan stok menipis (*low stock warning*), serta mendukung manajemen multi-role dengan antarmuka modern bertema **Emerald & Slate**.
 
